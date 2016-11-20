@@ -1,0 +1,2 @@
+# TKBlockEventManager
+提供实现异步注册与执行block
